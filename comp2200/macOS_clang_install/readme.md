@@ -11,7 +11,7 @@
 
   <img width="382" alt="image" src="https://github.com/user-attachments/assets/e786f79e-a8aa-4f20-bd68-9f13134a3462" />
 
-3. 여기에 있는 [install_clang.sh]([https://github.com/twglhk/pocu-wiki/blob/main/comp2200/macOS_clang_install/install_clang.sh.sh](https://github.com/twglhk/pocu-wiki/blob/main/comp2200/macOS_clang_install/install_clang.sh))을 다운로드 합니다.
+3. 여기에 있는 [install_clang.sh](https://github.com/twglhk/pocu-wiki/blob/main/comp2200/macOS_clang_install/install_clang.sh)을 다운로드 합니다.
 
 4. 압축푼 LLVM clang 디렉토리에 sh 파일을 넣습니다.
 
@@ -28,3 +28,6 @@ clang --version
 ```
   이렇게 뜨면 성공입니다.
 <img width="1046" alt="image" src="https://github.com/user-attachments/assets/35e08d91-ef97-41c9-986e-18c6504abd73" />
+
+
+---
